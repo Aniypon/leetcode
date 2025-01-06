@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aniypon/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/Aniypon/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aniypon/leetcode/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aniypon/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
