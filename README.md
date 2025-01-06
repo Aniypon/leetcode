@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aniypon/leetcode/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniypon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Aniypon/leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aniypon/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
