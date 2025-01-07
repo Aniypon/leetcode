@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniypon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Aniypon/leetcode/tree/master/0409-longest-palindrome) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aniypon/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aniypon/leetcode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniypon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Aniypon/leetcode/tree/master/0409-longest-palindrome) |
 ## Queue
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/Aniypon/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aniypon/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Aniypon/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
