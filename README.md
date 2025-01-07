@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aniypon/leetcode/tree/master/0009-palindrome-number) |
+| [2556-convert-the-temperature](https://github.com/Aniypon/leetcode/tree/master/2556-convert-the-temperature) |
 ## Linked List
 |  |
 | ------- |
