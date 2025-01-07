@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aniypon/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Aniypon/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Trie
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aniypon/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aniypon/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -78,8 +80,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aniypon/leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aniypon/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aniypon/leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aniypon/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
