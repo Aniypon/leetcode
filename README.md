@@ -74,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aniypon/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Aniypon/leetcode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Aniypon/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
