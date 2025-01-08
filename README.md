@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aniypon/leetcode/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/Aniypon/leetcode/tree/master/0367-valid-perfect-square) |
 | [2556-convert-the-temperature](https://github.com/Aniypon/leetcode/tree/master/2556-convert-the-temperature) |
 ## Linked List
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aniypon/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Aniypon/leetcode/tree/master/0367-valid-perfect-square) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aniypon/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1646-kth-missing-positive-number](https://github.com/Aniypon/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Heap (Priority Queue)
