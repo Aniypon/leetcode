@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Aniypon/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Aniypon/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Aniypon/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -90,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Aniypon/leetcode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Aniypon/leetcode/tree/master/0561-array-partition) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aniypon/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aniypon/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aniypon/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
