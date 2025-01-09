@@ -4,28 +4,17 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        unordered_map<string, vector<string>> ans;
-
-        for (string& s : strs) {
-            array<int, 26> count = {0};
-
-            for (char c : s) {
-                count[c - 'a']++;
-            }
-
-            string key;
-            for (int num : count) {
-                key += to_string(num)+ "#";
-            }
-
-            ans[key].push_back(s);
+        unordered_map<string,vector<string>> mp;
+        for(int i=0;i<strs.size();i++){
+            string temp=strs[i];
+            sort(temp.begin(),temp.end());
+            mp[temp].push_back(strs[i]);
         }
-
-        vector<vector<string>> result;
-        for (auto& entry : ans) {
-            result.push_back(entry.second);
+        
+        vector<vector<string>> ans;
+        for(auto it:mp){
+            ans.push_back(it.second);
         }
-
-        return result;   
+        return ans;  
     }  
 };
