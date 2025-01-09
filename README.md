@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/Aniypon/leetcode/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/Aniypon/leetcode/tree/master/0367-valid-perfect-square) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Aniypon/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2383-add-two-integers](https://github.com/Aniypon/leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/Aniypon/leetcode/tree/master/2556-convert-the-temperature) |
 ## Linked List
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/Aniypon/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Aniypon/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aniypon/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Aniypon/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aniypon/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/Aniypon/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aniypon/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Aniypon/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Greedy
 |  |
 | ------- |
