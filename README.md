@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniypon/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniypon/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Aniypon/leetcode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Aniypon/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Aniypon/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniypon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniypon/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Aniypon/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aniypon/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Aniypon/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Aniypon/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Aniypon/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Aniypon/leetcode/tree/master/0179-largest-number) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aniypon/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Aniypon/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Aniypon/leetcode/tree/master/0242-valid-anagram) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/Aniypon/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aniypon/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
