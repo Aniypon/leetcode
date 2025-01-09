@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aniypon/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Aniypon/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Aniypon/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aniypon/leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Aniypon/leetcode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aniypon/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
