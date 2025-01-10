@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Aniypon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Aniypon/leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0721-accounts-merge](https://github.com/Aniypon/leetcode/tree/master/0721-accounts-merge) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Aniypon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Aniypon/leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0721-accounts-merge](https://github.com/Aniypon/leetcode/tree/master/0721-accounts-merge) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aniypon/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Queue
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniypon/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Aniypon/leetcode/tree/master/0561-array-partition) |
+| [0721-accounts-merge](https://github.com/Aniypon/leetcode/tree/master/0721-accounts-merge) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aniypon/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Array
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniypon/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Aniypon/leetcode/tree/master/0561-array-partition) |
+| [0721-accounts-merge](https://github.com/Aniypon/leetcode/tree/master/0721-accounts-merge) |
 | [1646-kth-missing-positive-number](https://github.com/Aniypon/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Bit Manipulation
@@ -238,4 +242,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aniypon/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+## Depth-First Search
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/Aniypon/leetcode/tree/master/0721-accounts-merge) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/Aniypon/leetcode/tree/master/0721-accounts-merge) |
+## Union Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/Aniypon/leetcode/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
