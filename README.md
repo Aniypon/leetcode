@@ -107,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Aniypon/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Aniypon/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Aniypon/leetcode/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniypon/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aniypon/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1646-kth-missing-positive-number](https://github.com/Aniypon/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniypon/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aniypon/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Aniypon/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Aniypon/leetcode/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniypon/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Aniypon/leetcode/tree/master/0561-array-partition) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/Aniypon/leetcode/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aniypon/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Aniypon/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniypon/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Aniypon/leetcode/tree/master/0561-array-partition) |
 | [1646-kth-missing-positive-number](https://github.com/Aniypon/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aniypon/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniypon/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Prefix Sum
 |  |
