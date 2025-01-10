@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Aniypon/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniypon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Aniypon/leetcode/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Aniypon/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniypon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Aniypon/leetcode/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aniypon/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Queue
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniypon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aniypon/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aniypon/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Binary Tree
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Aniypon/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Aniypon/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Aniypon/leetcode/tree/master/0561-array-partition) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aniypon/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Array
@@ -190,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aniypon/leetcode/tree/master/0053-maximum-subarray) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
