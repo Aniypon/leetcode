@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Aniypon/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Aniypon/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/Aniypon/leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Aniypon/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Aniypon/leetcode/tree/master/0179-largest-number) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Aniypon/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Aniypon/leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Aniypon/leetcode/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/Aniypon/leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Aniypon/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Aniypon/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Simulation
