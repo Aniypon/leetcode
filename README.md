@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Aniypon/leetcode/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/Aniypon/leetcode/tree/master/0367-valid-perfect-square) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Aniypon/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniypon/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2383-add-two-integers](https://github.com/Aniypon/leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/Aniypon/leetcode/tree/master/2556-convert-the-temperature) |
 ## Linked List
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aniypon/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aniypon/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniypon/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aniypon/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Binary Tree
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Aniypon/leetcode/tree/master/0561-array-partition) |
 | [0721-accounts-merge](https://github.com/Aniypon/leetcode/tree/master/0721-accounts-merge) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniypon/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aniypon/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Array
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/Aniypon/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Aniypon/leetcode/tree/master/0561-array-partition) |
 | [0721-accounts-merge](https://github.com/Aniypon/leetcode/tree/master/0721-accounts-merge) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniypon/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1646-kth-missing-positive-number](https://github.com/Aniypon/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Bit Manipulation
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aniypon/leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Aniypon/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniypon/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Bucket Sort
 |  |
@@ -243,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aniypon/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Aniypon/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Depth-First Search
 |  |
@@ -256,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Aniypon/leetcode/tree/master/0721-accounts-merge) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Aniypon/leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
