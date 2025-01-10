@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Aniypon/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/Aniypon/leetcode/tree/master/0721-accounts-merge) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Aniypon/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Aniypon/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Queue
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/Aniypon/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aniypon/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Aniypon/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/Aniypon/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Aniypon/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Aniypon/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Array
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/Aniypon/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1646-kth-missing-positive-number](https://github.com/Aniypon/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Aniypon/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Aniypon/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Aniypon/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Aniypon/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -255,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Aniypon/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Aniypon/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Aniypon/leetcode/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Aniypon/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -271,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Aniypon/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Radix Sort
+|  |
+| ------- |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/Aniypon/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
