@@ -27,7 +27,7 @@ public:
             prev = slow;
             slow = tmp;
         }
-
+        
         ListNode* l= head;
         ListNode* r = prev;
         while(r){
@@ -40,4 +40,7 @@ public:
         return true;
 
     }
+
+    // O(n)
+    // m O(1)
 };
